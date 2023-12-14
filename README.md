@@ -1,0 +1,2 @@
+# cofi
+COFI winter school
